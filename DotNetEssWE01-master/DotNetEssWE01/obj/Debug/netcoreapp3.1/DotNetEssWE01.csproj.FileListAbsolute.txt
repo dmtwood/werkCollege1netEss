@@ -1,0 +1,16 @@
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\bin\Debug\netcoreapp3.1\DotNetEssWE01.exe
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\bin\Debug\netcoreapp3.1\DotNetEssWE01.deps.json
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\bin\Debug\netcoreapp3.1\DotNetEssWE01.runtimeconfig.json
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\bin\Debug\netcoreapp3.1\DotNetEssWE01.runtimeconfig.dev.json
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\bin\Debug\netcoreapp3.1\DotNetEssWE01.dll
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\bin\Debug\netcoreapp3.1\DotNetEssWE01.pdb
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\bin\Debug\netcoreapp3.1\WE01.Logica.dll
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\bin\Debug\netcoreapp3.1\WE01.Logica.pdb
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\obj\Debug\netcoreapp3.1\DotNetEssWE01.csprojAssemblyReference.cache
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\obj\Debug\netcoreapp3.1\DotNetEssWE01.AssemblyInfoInputs.cache
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\obj\Debug\netcoreapp3.1\DotNetEssWE01.AssemblyInfo.cs
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\obj\Debug\netcoreapp3.1\DotNetEssWE01.csproj.CoreCompileInputs.cache
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\obj\Debug\netcoreapp3.1\DotNetEssWE01.csproj.CopyComplete
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\obj\Debug\netcoreapp3.1\DotNetEssWE01.dll
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\obj\Debug\netcoreapp3.1\DotNetEssWE01.pdb
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\DotNetEssWE01\obj\Debug\netcoreapp3.1\DotNetEssWE01.genruntimeconfig.cache

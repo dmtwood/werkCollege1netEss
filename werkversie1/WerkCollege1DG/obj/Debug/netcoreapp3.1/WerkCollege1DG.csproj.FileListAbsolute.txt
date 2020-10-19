@@ -1,0 +1,13 @@
+D:\dotnet\projects\werkcollege1\werkversie1\WerkCollege1DG\bin\Debug\netcoreapp3.1\WerkCollege1DG.exe
+D:\dotnet\projects\werkcollege1\werkversie1\WerkCollege1DG\bin\Debug\netcoreapp3.1\WerkCollege1DG.deps.json
+D:\dotnet\projects\werkcollege1\werkversie1\WerkCollege1DG\bin\Debug\netcoreapp3.1\WerkCollege1DG.runtimeconfig.json
+D:\dotnet\projects\werkcollege1\werkversie1\WerkCollege1DG\bin\Debug\netcoreapp3.1\WerkCollege1DG.runtimeconfig.dev.json
+D:\dotnet\projects\werkcollege1\werkversie1\WerkCollege1DG\bin\Debug\netcoreapp3.1\WerkCollege1DG.dll
+D:\dotnet\projects\werkcollege1\werkversie1\WerkCollege1DG\bin\Debug\netcoreapp3.1\WerkCollege1DG.pdb
+D:\dotnet\projects\werkcollege1\werkversie1\WerkCollege1DG\obj\Debug\netcoreapp3.1\WerkCollege1DG.csprojAssemblyReference.cache
+D:\dotnet\projects\werkcollege1\werkversie1\WerkCollege1DG\obj\Debug\netcoreapp3.1\WerkCollege1DG.AssemblyInfoInputs.cache
+D:\dotnet\projects\werkcollege1\werkversie1\WerkCollege1DG\obj\Debug\netcoreapp3.1\WerkCollege1DG.AssemblyInfo.cs
+D:\dotnet\projects\werkcollege1\werkversie1\WerkCollege1DG\obj\Debug\netcoreapp3.1\WerkCollege1DG.csproj.CoreCompileInputs.cache
+D:\dotnet\projects\werkcollege1\werkversie1\WerkCollege1DG\obj\Debug\netcoreapp3.1\WerkCollege1DG.dll
+D:\dotnet\projects\werkcollege1\werkversie1\WerkCollege1DG\obj\Debug\netcoreapp3.1\WerkCollege1DG.pdb
+D:\dotnet\projects\werkcollege1\werkversie1\WerkCollege1DG\obj\Debug\netcoreapp3.1\WerkCollege1DG.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\WE01.Logica\bin\Debug\netcoreapp3.1\WE01.Logica.deps.json
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\WE01.Logica\bin\Debug\netcoreapp3.1\WE01.Logica.dll
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\WE01.Logica\bin\Debug\netcoreapp3.1\WE01.Logica.pdb
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\WE01.Logica\obj\Debug\netcoreapp3.1\WE01.Logica.csprojAssemblyReference.cache
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\WE01.Logica\obj\Debug\netcoreapp3.1\WE01.Logica.AssemblyInfoInputs.cache
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\WE01.Logica\obj\Debug\netcoreapp3.1\WE01.Logica.AssemblyInfo.cs
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\WE01.Logica\obj\Debug\netcoreapp3.1\WE01.Logica.csproj.CoreCompileInputs.cache
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\WE01.Logica\obj\Debug\netcoreapp3.1\WE01.Logica.dll
+D:\dotnet\projects\werkcollege1\DotNetEssWE01-master\WE01.Logica\obj\Debug\netcoreapp3.1\WE01.Logica.pdb
