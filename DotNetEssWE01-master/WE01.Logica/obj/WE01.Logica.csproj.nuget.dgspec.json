@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\lesmateriaal\\ehb\\dotNet\\DotNetEssWE01-master\\WE01.Logica\\WE01.Logica.csproj": {}
+    "D:\\dotnet\\projects\\werkcollege1\\DotNetEssWE01-master\\WE01.Logica\\WE01.Logica.csproj": {}
   },
   "projects": {
-    "D:\\lesmateriaal\\ehb\\dotNet\\DotNetEssWE01-master\\WE01.Logica\\WE01.Logica.csproj": {
+    "D:\\dotnet\\projects\\werkcollege1\\DotNetEssWE01-master\\WE01.Logica\\WE01.Logica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\lesmateriaal\\ehb\\dotNet\\DotNetEssWE01-master\\WE01.Logica\\WE01.Logica.csproj",
+        "projectUniqueName": "D:\\dotnet\\projects\\werkcollege1\\DotNetEssWE01-master\\WE01.Logica\\WE01.Logica.csproj",
         "projectName": "WE01.Logica",
-        "projectPath": "D:\\lesmateriaal\\ehb\\dotNet\\DotNetEssWE01-master\\WE01.Logica\\WE01.Logica.csproj",
+        "projectPath": "D:\\dotnet\\projects\\werkcollege1\\DotNetEssWE01-master\\WE01.Logica\\WE01.Logica.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "D:\\lesmateriaal\\ehb\\dotNet\\DotNetEssWE01-master\\WE01.Logica\\obj\\",
+        "outputPath": "D:\\dotnet\\projects\\werkcollege1\\DotNetEssWE01-master\\WE01.Logica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

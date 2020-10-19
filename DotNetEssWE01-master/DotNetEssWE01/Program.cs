@@ -8,7 +8,7 @@ namespace DotNetEssWE01
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("===== Oef 1: Wissel =====");
+            Console.WriteLine(" Dimi was here ===== Oef 1: Wissel =====");
 
             int a = 10, b = 20;
             Console.WriteLine("Waarden voor wissel:");

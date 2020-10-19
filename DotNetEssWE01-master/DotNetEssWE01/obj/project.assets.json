@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\lesmateriaal\\ehb\\dotNet\\DotNetEssWE01-master\\DotNetEssWE01\\DotNetEssWE01.csproj",
+      "projectUniqueName": "D:\\dotnet\\projects\\werkcollege1\\DotNetEssWE01-master\\DotNetEssWE01\\DotNetEssWE01.csproj",
       "projectName": "DotNetEssWE01",
-      "projectPath": "D:\\lesmateriaal\\ehb\\dotNet\\DotNetEssWE01-master\\DotNetEssWE01\\DotNetEssWE01.csproj",
+      "projectPath": "D:\\dotnet\\projects\\werkcollege1\\DotNetEssWE01-master\\DotNetEssWE01\\DotNetEssWE01.csproj",
       "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-      "outputPath": "D:\\lesmateriaal\\ehb\\dotNet\\DotNetEssWE01-master\\DotNetEssWE01\\obj\\",
+      "outputPath": "D:\\dotnet\\projects\\werkcollege1\\DotNetEssWE01-master\\DotNetEssWE01\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -59,8 +59,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\lesmateriaal\\ehb\\dotNet\\DotNetEssWE01-master\\WE01.Logica\\WE01.Logica.csproj": {
-              "projectPath": "D:\\lesmateriaal\\ehb\\dotNet\\DotNetEssWE01-master\\WE01.Logica\\WE01.Logica.csproj"
+            "D:\\dotnet\\projects\\werkcollege1\\DotNetEssWE01-master\\WE01.Logica\\WE01.Logica.csproj": {
+              "projectPath": "D:\\dotnet\\projects\\werkcollege1\\DotNetEssWE01-master\\WE01.Logica\\WE01.Logica.csproj"
             }
           }
         }
